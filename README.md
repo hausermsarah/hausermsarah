@@ -12,7 +12,11 @@
 
 -Please feel free to ask me about other work I have done. I have worked on other projects outside of code and video games.
 
+### information
+
 **How to reach me:** You can contact me through my email, hausermsarah@gmail.com. I will respond within 1-2 business days.
+
 **Pronouns:** my Pronouns are she/her.
+
 **Fun fact:** I am a streamer! I enjoy streaming games such as VALORANT, Team Fight Tactics, and a variety of other games!
 
