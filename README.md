@@ -1,4 +1,4 @@
-[header](https://github.com/hausermsarah/hausermsarah/assets/123280964/6db2fa68-b117-44f2-abd7-fd2f69def76c)
+![header](https://github.com/hausermsarah/hausermsarah/assets/123280964/6db2fa68-b117-44f2-abd7-fd2f69def76c)
 ### Hi there 👋
 
 <!--
