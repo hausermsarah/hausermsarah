@@ -5,8 +5,11 @@
 ### Works I have done!
 
 -I’m working on a passion project with friends; around 5 of us are working together to create a video game! I am very excited and passionate about this work! 
+
 -I have been a developer for a mental health app at the University of Montana through a class, and I hope to continue my work in this.
+
 -I am working on my own Video game, a top-down RPG. 
+
 -Please feel free to ask me about other work I have done. I have worked on other projects outside of code and video games.
 
 **How to reach me:** You can contact me through my email, hausermsarah@gmail.com. I will respond within 1-2 business days.
