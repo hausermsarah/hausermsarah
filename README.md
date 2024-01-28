@@ -2,6 +2,10 @@
 # Sarah Hauser
 ## Hi there!
 
+### About me
+
+-Hello, my name is Sarah Hauser. I am a senior at the University of Montana and plan to graduate in the fall of 2024. I am a Media Arts and Game Design with a strong passion for video games and the community around them! I plan to find a job in the industry, I also have a few passion projects in my GitHub and works and examples of what I have done here. I work in programs such as Unity and Godot! I can code in C#, HTML, and Python!
+
 ### Works I have done!
 
 -I’m working on a passion project with friends; around 5 of us are working together to create a video game! I am very excited and passionate about this work! 
@@ -12,7 +16,7 @@
 
 -Please feel free to ask me about other work I have done. I have worked on other projects outside of code and video games.
 
-### information
+### Information
 
 **How to reach me:** You can contact me through my email, hausermsarah@gmail.com. I will respond within 1-2 business days.
 
